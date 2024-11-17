@@ -1,0 +1,14 @@
+C:\Users\klymr\source\repos\snake\snake\bin\Debug\net8.0\snake.exe
+C:\Users\klymr\source\repos\snake\snake\bin\Debug\net8.0\snake.deps.json
+C:\Users\klymr\source\repos\snake\snake\bin\Debug\net8.0\snake.runtimeconfig.json
+C:\Users\klymr\source\repos\snake\snake\bin\Debug\net8.0\snake.dll
+C:\Users\klymr\source\repos\snake\snake\bin\Debug\net8.0\snake.pdb
+C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\snake.AssemblyInfoInputs.cache
+C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\snake.AssemblyInfo.cs
+C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\snake.csproj.CoreCompileInputs.cache
+C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\snake.dll
+C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\refint\snake.dll
+C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\snake.pdb
+C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\snake.genruntimeconfig.cache
+C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\ref\snake.dll
