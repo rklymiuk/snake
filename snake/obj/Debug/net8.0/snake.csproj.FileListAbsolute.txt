@@ -12,3 +12,4 @@ C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\refint\snake.dll
 C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\snake.pdb
 C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\snake.genruntimeconfig.cache
 C:\Users\klymr\source\repos\snake\snake\obj\Debug\net8.0\ref\snake.dll
+C:\Users\klymr\Source\Repos\snake\snake\obj\Debug\net8.0\snake.sourcelink.json
